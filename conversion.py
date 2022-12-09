@@ -21,6 +21,7 @@ class VoiceConverter(nn.Module):
             raise NotImplementedError
             
     @staticmethod
+    @torch.no_grad()
     def voice_conversion(hps, net_g, y_src, sid_src, sid_tgt, 
                          y_ref=None, f0_scale=1.0, uv_threshold=1.0, 
                          debug=False, device=-1):
