@@ -1,0 +1,4 @@
+praat-parselmouth
+pyworld
+pysptk
+pytorch-metric-learning
