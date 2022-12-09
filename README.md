@@ -31,7 +31,8 @@
 
 
 ## Tensorboard Stats
-![pitch-control-vits-tensorboard-stats](https://user-images.githubusercontent.com/69423543/206712880-afecb177-34e3-4d25-b227-beb3ad0205f5.png)
+![pitch-control-vits-tensorboard-stats](https://user-images.githubusercontent.com/69423543/206713100-69667dac-3516-458e-a764-4e5f0dcacff3.png)
+
 
 ## Reference
 1. [VITS](https://arxiv.org/abs/2106.06103)
