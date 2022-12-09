@@ -26,13 +26,12 @@
 
 
 ## Tensorboard losses
-![pitch-control-vits-tensorboard-losses1](https://user-images.githubusercontent.com/69423543/184790465-ac09988c-1685-4f6d-b3c7-a5458596d348.png)
-![pitch-control-vits-tensorboard-losses2](https://user-images.githubusercontent.com/69423543/184790469-60a181fb-1d79-4bc7-bac8-caf443871f78.png)
+![pitch-control-vits-tensorboard-losses1](https://user-images.githubusercontent.com/69423543/206712958-97789f1f-9cfc-47de-972a-eae930b91720.png)
+![pitch-control-vits-tensorboard-losses2](https://user-images.githubusercontent.com/69423543/206713005-318e10cd-362a-4b61-ab46-d0ba834c688f.png)
 
 
 ## Tensorboard Stats
-![pitch-control-vits-tensorboard-stats](https://user-images.githubusercontent.com/69423543/184790478-551f543b-f002-40ba-bd08-a36ce07277c8.png)
-
+![pitch-control-vits-tensorboard-stats](https://user-images.githubusercontent.com/69423543/206712880-afecb177-34e3-4d25-b227-beb3ad0205f5.png)
 
 ## Reference
 1. [VITS](https://arxiv.org/abs/2106.06103)
