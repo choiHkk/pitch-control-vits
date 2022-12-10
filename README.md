@@ -20,7 +20,7 @@
 4. `cd /home/work/pitch-control-vits`
 5. `python train_ms.py -c ./config/vctk_base_hifigan.json -m vctk_base_hifigan`
 6. arguments
-  * -c : comfig path
+  * -c : config path
   * -m : model output directory
 7. (OPTIONAL) `tensorboard --logdir=outdir/logdir`
 
